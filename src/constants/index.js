@@ -50,11 +50,11 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Flutter App Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Java Developer",
       icon: creator,
     },
   ];
