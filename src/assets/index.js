@@ -16,10 +16,10 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import java from "./tech/java.png"
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import flutter from "./tech/flutter.png";
+import threejs from "./tech/threejs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -48,9 +48,9 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  java,
   tailwind,
-  typescript,
+  flutter,
   threejs,
   meta,
   shopify,
