@@ -198,25 +198,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Portfolio Web",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "emailjs",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/nawam727/portfoliowebsite",
     },
     {
       name: "Job IT",
